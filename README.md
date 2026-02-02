@@ -66,7 +66,7 @@ Professional calculation tool for hydraulic piping systems and centrifugal pump 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/pump-calculator.git
+git clone https://github.com/Cheito91/pump-calculator.git
 cd pump-calculator
 
 # Create and activate virtual environment
