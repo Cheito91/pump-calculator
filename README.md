@@ -353,7 +353,7 @@ If you use this software in your work, please cite:
 
 ```
 Industrial Pipe and Pump Calculator (v0.1.0-alpha)
-https://github.com/your-username/pump-calculator
+https://github.com/Cheito91/pump-calculator
 ```
 
 ---
